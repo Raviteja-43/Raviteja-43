@@ -1,4 +1,4 @@
-# Hi, I'm Raviteja 👋
+# 👋 Hi, I'm Raviteja
 
 ### ECE Graduate | Aspiring Embedded Systems Engineer
 
@@ -6,47 +6,60 @@ I'm an Electronics and Communication Engineering graduate interested in Embedded
 
 I enjoy learning how hardware and software work together and building practical projects to improve my technical skills.
 
-## 🛠️ Technical Skills
+---
 
-- **Programming:** C, Python
-- **Embedded Systems:** Embedded C, Arduino, Microcontrollers
-- **Operating Systems:** Linux
-- **HDL:** Verilog
-- **Electronics:** PCB Testing, Debugging, Soldering, Power Electronics
-- **Design Tools:** MATLAB, ANSYS HFSS, Keil µVision
+### 🛠️ Technical Skills
 
-## 🚀 Projects
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-008080?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-6A5ACD?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 1. Early Flood Monitoring and Warning System
-- Developed as an electronics and embedded systems project.
-- Technologies: Arduino UNO, Ultrasonic Sensor, LED Warning.
-- Focus: Water-level monitoring and early warning.
+### 📚 Currently Learning
 
-### 2. Dual-Band Wearable Reconfigurable Antenna
-- Designed and simulated a wearable antenna using ANSYS HFSS.
-- Focus: Antenna design, simulation, and performance analysis.
+- Advanced C Programming
+- Linux System Programming
+- Embedded Systems and Microcontrollers
+- Linux Device Drivers
 
-## 💼 Internship Experience
+### 🎯 Areas of Interest
+
+- Embedded Systems Development
+- Electronics Testing and Debugging
+- Power Electronics
+- Hardware–Software Integration
+
+---
+
+### 🚀 Projects
+
+**1. Early Flood Monitoring and Warning System**
+
+- Arduino UNO-based water-level monitoring and warning project.
+- Technologies: Arduino UNO, ultrasonic sensor, LED alerts.
+
+**2. Dual-Band Wearable Reconfigurable Antenna**
+
+- Antenna design and simulation using ANSYS HFSS.
+- Focus: antenna parameters and simulation analysis.
+
+---
+
+### 💼 Internship Experience
 
 **Jai Sales Corporation — Power Electronics Testing and Analysis**
 
-- Performed PCB-level testing and debugging.
-- Practiced soldering and electronic component replacement.
-- Learned power electronics testing procedures and fault identification.
+- PCB-level testing and debugging.
+- Soldering practice and electronic component replacement.
+- Power electronics testing and fault identification.
 
-## 📚 Currently Learning
+---
 
-- Advanced C Programming
-- Embedded C
-- Linux System Programming
-- Microcontrollers and Embedded Systems
+### 🤝 Connect with Me
 
-## 🎯 Career Goal
-
-To begin my career in Embedded Systems and contribute to developing reliable hardware-software solutions while continuously improving my practical skills.
-
-## 🤝 Connect with Me
-
-- **LinkedIn:** [www.linkedin.com/in/m-raviteja-16a417427]
-- **GitHub:** https://github.com/Raviteja-43
+- GitHub: https://github.com/Raviteja-43
+- LinkedIn:www.linkedin.com/in/m-raviteja-16a417427
 
